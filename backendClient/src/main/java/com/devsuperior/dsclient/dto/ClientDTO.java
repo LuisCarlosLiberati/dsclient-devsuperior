@@ -1,4 +1,4 @@
-package com.devsuperior.dto;
+package com.devsuperior.dsclient.dto;
 
 import java.io.Serializable;
 import java.time.Instant;
